@@ -1,4 +1,4 @@
-# Atmos - Weather Insights
+#Weather Insights
 
 A stunning, modern Django weather application with an eye-catching UI that provides real-time weather information and forecasts using WeatherAPI.
 
@@ -55,7 +55,7 @@ A stunning, modern Django weather application with an eye-catching UI that provi
 
 1. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone https://github.com/carlbenda/Weather-App.git
    cd weather_project
    ```
 
